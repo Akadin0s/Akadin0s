@@ -2,8 +2,8 @@
 
 # Arise, Hunter ⚔️
 
-![image](![solo-leveling-sung-jinwoo-shadow-4k-wallpaper-uhdpaper com-452@0@e](https://github.com/user-attachments/assets/c99a05dd-4cc1-4102-9662-693b496f8fb6)
-)
+(![solo-leveling-sung-jinwoo-shadow-4k-wallpaper-uhdpaper com-452@0@e](https://github.com/user-attachments/assets/c99a05dd-4cc1-4102-9662-693b496f8fb6)
+
 
 ### *I am the Shadow Monarch, ruler of death*
 
