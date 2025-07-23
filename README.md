@@ -23,34 +23,43 @@
 
 #### *Languages & Frameworks*
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-circle&logo=javascript&logoColor=black" width="80" height="30">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-circle&logo=java&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-circle&logo=c&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-circle&logo=php&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-circle&logo=html5&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-circle&logo=css3&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/SQL-316192?style=for-the-circle&logo=postgresql&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-circle&logo=oracle&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-circle&logo=mysql&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-circle&logo=laravel&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-circle&logo=gnubash&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/Networking-0088CE?style=for-the-circle&logo=cisco&logoColor=white" width="100" height="30">
-<img src="https://img.shields.io/badge/Computer%20Architecture-808080?style=for-the-circle&logo=computer&logoColor=white" width="150" height="30">
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-0088CE?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Architecture-808080?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
 
 
 #### *Tools of the Trade*
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-circle&logo=bootstrap&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-circle&logo=postgresql&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-circle&logo=mysql&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-circle&logo=oracle&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-circle&logo=adobe-premiere-pro&logoColor=white" width="100" height="30">
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-circle&logo=adobe-photoshop&logoColor=white" width="100" height="30">
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-circle&logo=vmware&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-circle&logo=ubuntu&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/Packet_Tracer-0088CE?style=for-the-circle&logo=cisco&logoColor=white" width="100" height="30">
-<img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-circle&logo=codeblocks&logoColor=white" width="100" height="30">
-<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-circle&logo=eclipse-ide&logoColor=white" width="100" height="30">
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Packet%20Tracer-0088CE?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
+
 
 
 
